@@ -12,11 +12,11 @@ baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-# weibo_username:     huxpro
-# zhihu_username:     huxpro
+# weibo_username:     plunderwind
+# zhihu_username:     plunderwind
 github_username:    plunderwind
-#twitter_username:  huxpro
-# facebook_username:  huxpro
+#twitter_username:  plunderwind
+# facebook_username:  plunderwind
 
 
 
@@ -74,7 +74,7 @@ sidebar-about-description: ""
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
